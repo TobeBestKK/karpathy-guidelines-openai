@@ -1,0 +1,7 @@
+interface:
+  display_name: "Karpathy Guidelines"
+  short_description: "Keep coding changes simple, focused, and verifiable"
+  default_prompt: "Use $karpathy-guidelines-openai to keep this coding task minimal, scoped, and verified."
+
+policy:
+  allow_implicit_invocation: true
