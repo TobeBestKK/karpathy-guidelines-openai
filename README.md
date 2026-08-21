@@ -24,6 +24,3 @@ OpenCode 版本位于：
 
 重启或新开一个 OpenCode 会话后，skill 会出现在可用技能列表中；可直接要求 agent 使用 `karpathy-guidelines`，也可由描述匹配自动调用。
 
-## Codex / OpenAI Skills
-
-根目录的 [`SKILL.md`](./SKILL.md) 保留为原有的 Codex / OpenAI Skills 版本，并未被 OpenCode 适配改动影响。
